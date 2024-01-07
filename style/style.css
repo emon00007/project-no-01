@@ -1,0 +1,67 @@
+/*common style*/
+body {
+    font-family: 'Open Sans', sans-serif,'inter';
+}
+
+.heading-container {
+
+
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 16px;
+    background: black;
+    background-image: url('../resources/Banner\ Image.png');
+
+
+
+}
+
+/*.heading-text{
+    align-items: center;
+}*/
+.heading-text-1 {
+    color: #f8efef;
+
+    text-align: center;
+    font-family: "Merriweather";
+    font-size: 32px;
+    font-weight: 400;
+    padding: 177px 530px 0px 530px;
+
+}
+
+.heading-text-2 {
+    color: #FFF;
+
+    text-align: center;
+    font-family: "Merriweather";
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    padding: 0px 344px 177px 344px;
+    margin-top: -15px;
+}
+
+.main-top {
+    text-align: center;
+    font-family: "Inter";
+}
+
+.text-top {
+    color: #F00;
+    text-align: center;
+    font-family: 'inter';
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: -60px;
+}
+
+.text-medil {
+    color: #F00;
+    text-align: center;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 500;
+}

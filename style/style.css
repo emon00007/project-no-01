@@ -518,3 +518,17 @@ footer {
 
 /* FOOTER */
 
+.inner {
+    display: flex;
+    gap: 10px;
+}
+
+.inner1 {
+    display: flex;
+    gap: 10px;
+}
+
+.fottop1 {
+    width: 29%;
+    float: right;
+}
